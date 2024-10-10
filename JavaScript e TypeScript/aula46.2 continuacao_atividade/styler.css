@@ -1,0 +1,25 @@
+body{
+     background-color: aquamarine;
+     text-align: center;
+}
+
+.corpo{
+     background-color: white;
+     border-radius: 20px;
+     margin-left: 30%;
+     margin-right: 30%;
+     margin-top: 100px;
+     padding-bottom: 300px;
+     justify-content: center;
+
+}
+
+.time{
+     font-size: 60px;
+}
+
+.relogio{
+     font-size: 30px;
+     color:rgb(0, 0, 0);
+     
+}
